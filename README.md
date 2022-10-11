@@ -6,7 +6,7 @@ My extensive knowledge goes beyond software development and extends into cloud a
 
 In my time I have created platforms that serve global user bases on social media, process terabytes of analytical data daily for SEO and marketing platforms, perform huge web scraping tasks, and many more exciting platforms.
 
-I specialise in backend development usually concentrating on core microservices (usually GRPC), APIs (usually REST), tooling, and infrastructure, along with usually leading a team of 4 - 20 other engineers.
+I specialise in backend development usually concentrating on core microservices (usually using GRPC for communication), APIs (usually REST based), tooling, and infrastructure, along with usually leading a team of 4 - 20 other engineers.
 
 Below is a list of technologies that I have been using recently for my platform development at an expert level, this is not an exhaustive list of my skills.
 

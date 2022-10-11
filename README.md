@@ -49,6 +49,7 @@ Below is a list of technologies that I have been using recently for my platform 
 - Git
 - Docker (and Docker Swarm (a faveourite of mine))
 - Linux (debian being my daily driver os of choice)
+- API Development
 
 
 
